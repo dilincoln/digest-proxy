@@ -1,0 +1,9 @@
+# Digest Proxy Configuration
+PORT=3000
+NODE_ENV=development
+
+# Optional: Log level (debug, info, warn, error)
+LOG_LEVEL=info
+
+# Optional: Enable detailed request logging
+ENABLE_REQUEST_LOGGING=true
